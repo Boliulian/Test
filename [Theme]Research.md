@@ -1,4 +1,6 @@
-
+layout: page
+title: "research"
+permalink: /theme/research/
 
 
 
